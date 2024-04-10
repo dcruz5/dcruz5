@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [daianacruz.vercel.app](daianacruz.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://daianacruz.vercel.app/)
 
 - 📫 How to reach me **dcruzp@outlook.es**
 
